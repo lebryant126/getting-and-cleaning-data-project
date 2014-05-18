@@ -1,4 +1,3 @@
-x
 1	avg-tBodyAcc-mean()-X
 2	avg-tBodyAcc-mean()-Y
 3	avg-tBodyAcc-mean()-Z
